@@ -1,0 +1,42 @@
+
+Fishing App
+
+
+Player (Fisherman)
+	Data
+	- Username		string
+	- Score		int
+
+
+**********************************************
+Fish
+	Data
+	- FishType	string
+	- Points	int
+
+	- Bass		10
+	- Perch		2
+	- Walleye	20
+	- Sunfish	5
+	- Pike		30
+
+	Functions
+	Bite()
+
+
+
+**************************************
+GameEngine
+	Function
+	- Fish CatchFish()
+
+
+
+Lake
+River
+Pond
+
+
+
+Game
+	- 
